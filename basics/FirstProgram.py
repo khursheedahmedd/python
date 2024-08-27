@@ -1,8 +1,8 @@
-print('Hello, YOU')
+print('Hello, YOU!!')
 
-name = 'Khursheed'
-age = 21
-height = 5.10
+name = str(input('Enter name: '))
+age = int(input('Enter age: '))
+height = float(input('Enter height: '))
 
 print('Name: ', name)
 print ('Age: ', age)
