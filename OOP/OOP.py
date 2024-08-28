@@ -1,0 +1,1 @@
+#Just get the concept bcuz I already study so much OOP in C++
